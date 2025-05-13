@@ -1,0 +1,6 @@
+OrderID,Region,Status
+1001,North,Shipped
+1002,South,Pending
+1003,North,Shipped
+1004,East,Cancelled
+1005,South,Shipped

@@ -1,0 +1,5 @@
+timestamp,visitor_id,page,bounce
+2024-05-01 10:00,101,Homepage,0
+2024-05-01 10:15,102,Contact,1
+2024-05-01 11:00,103,About,0
+2024-05-01 11:30,104,Homepage,1

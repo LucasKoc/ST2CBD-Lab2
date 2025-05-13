@@ -1,0 +1,5 @@
+sensor_id,region,timestamp,pm25,pm10
+SEN01,North,2024-04-01 08:00,55,80
+SEN02,East,2024-04-01 08:00,40,60
+SEN01,North,2024-04-01 09:00,70,90
+SEN02,East,2024-04-01 09:00,45,70

@@ -1,0 +1,6 @@
+AppID,CandidateName,Position,ApplicationDate,Status,Experience
+A001,John Doe,Data Analyst,2024-09-01,Accepted,3
+A002,Jane Smith,Marketing Executive,2024-09-03,Rejected,2
+A003,Alice Lee,Software Engineer,2024-09-05,Pending,1
+A004,Mike Brown,Data Analyst,2024-09-07,Accepted,4
+A005,Laura White,Marketing Executive,2024-09-08,Pending,2

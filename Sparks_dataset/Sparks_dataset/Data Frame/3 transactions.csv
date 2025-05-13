@@ -1,0 +1,6 @@
+TransactionID,CustomerID,Date,Amount,Type,Branch
+TX001,C001,2025-01-05,1200,Deposit,New York
+TX002,C002,2025-01-07,500,Withdrawal,Los Angeles
+TX003,C001,2025-01-10,2000,Deposit,New York
+TX004,C003,2025-01-12,700,Withdrawal,Chicago
+TX005,C002,2025-01-15,1000,Deposit,Los Angeles

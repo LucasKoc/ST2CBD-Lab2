@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Stock,ReorderLevel,Price
+P001,Apple,Fruits,120,50,0.5
+P002,Banana,Fruits,60,30,0.3
+P003,Shampoo,Personal Care,40,20,3.5
+P004,Toothpaste,Personal Care,15,25,2.0
+P005,Notebook,Stationery,100,70,1.2

@@ -1,0 +1,6 @@
+ClaimID,CustomerID,ClaimAmount,ClaimDate,Status,Type
+C001,C101,5000,2025-01-01,Approved,Health
+C002,C102,8000,2025-01-02,Rejected,Vehicle
+C003,C103,12000,2025-01-03,Pending,Health
+C004,C104,15000,2025-01-04,Approved,Vehicle
+C005,C101,7000,2025-01-05,Approved,Health

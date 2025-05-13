@@ -1,0 +1,6 @@
+TransactionID,Date,Store,Product,Category,Quantity,Price
+T001,2025-05-01,Store_A,Shampoo,Personal Care,3,5.99
+T002,2025-05-01,Store_B,Notebook,Stationery,5,2.49
+T003,2025-05-02,Store_A,Toothpaste,Personal Care,2,3.49
+T004,2025-05-02,Store_C,Pencil,Stationery,10,0.99
+T005,2025-05-03,Store_B,Handwash,Personal Care,1,4.99

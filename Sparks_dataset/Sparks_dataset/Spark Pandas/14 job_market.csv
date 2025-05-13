@@ -1,0 +1,5 @@
+job_id,company,role,skill,salary_usd,location,date_posted
+J01,ABC Inc,Data Scientist,Python,120000,NY,2024-05-01
+J02,XYZ Ltd,ML Engineer,TensorFlow,130000,CA,2024-05-02
+J03,DataTech,Analyst,Excel,80000,TX,2024-05-01
+J04,ABC Inc,ML Engineer,PyTorch,135000,NY,2024-05-03

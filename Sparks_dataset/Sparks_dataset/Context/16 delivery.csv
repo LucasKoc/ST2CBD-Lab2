@@ -1,0 +1,4 @@
+OrderID,Region,OrderedDate,DeliveredDate
+1,North,2025-05-01,2025-05-03
+2,South,2025-05-01,2025-05-02
+3,East,2025-05-01,2025-05-05

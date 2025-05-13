@@ -1,0 +1,6 @@
+PatientID,Name,Age,Gender,Department,AdmissionDate,DischargeDate
+P001,Tom,45,M,Cardiology,2025-01-01,2025-01-10
+P002,Ana,38,F,Neurology,2025-01-03,2025-01-08
+P003,Karen,50,F,Orthopedics,2025-01-02,2025-01-12
+P004,Mike,60,M,Cardiology,2025-01-04,2025-01-09
+P005,John,29,M,Neurology,2025-01-05,2025-01-07

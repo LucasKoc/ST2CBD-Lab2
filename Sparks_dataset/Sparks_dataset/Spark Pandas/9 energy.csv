@@ -1,0 +1,5 @@
+city,month,consumption_kwh,price_per_kwh
+New York,2024-01,12000,0.15
+Los Angeles,2024-01,9500,0.12
+New York,2024-02,13000,0.15
+Los Angeles,2024-02,10500,0.12

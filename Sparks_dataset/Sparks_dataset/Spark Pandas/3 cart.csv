@@ -1,0 +1,7 @@
+user_id,session_id,product_id,event_type,timestamp
+1,s1,501,view,2024-04-01 10:00
+1,s1,501,add_to_cart,2024-04-01 10:02
+1,s1,501,remove,2024-04-01 10:05
+2,s2,502,view,2024-04-01 11:00
+2,s2,502,add_to_cart,2024-04-01 11:01
+3,s3,503,view,2024-04-01 12:00

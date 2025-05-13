@@ -1,0 +1,4 @@
+Timestamp,Sender,Receiver
+2025-05-01 09:00,john@abc.com,amy@abc.com
+2025-05-01 10:00,john@abc.com,bob@abc.com
+2025-05-01 10:15,amy@abc.com,john@abc.com

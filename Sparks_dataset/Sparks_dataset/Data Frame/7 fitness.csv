@@ -1,0 +1,6 @@
+MemberID,Name,JoinDate,WeightStart,WeightCurrent,BMIStart,BMICurrent
+M001,Alice,2024-10-01,80,70,28.5,25.0
+M002,Bob,2024-10-05,95,90,31.0,29.5
+M003,Charlie,2024-10-10,70,68,24.0,23.5
+M004,Daisy,2024-10-15,60,59,22.0,21.8
+M005,Eva,2024-10-20,85,78,29.5,27.0

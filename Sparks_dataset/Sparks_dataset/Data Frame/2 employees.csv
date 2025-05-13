@@ -1,0 +1,6 @@
+EmpID,Name,Department,Designation,Salary,JoinDate
+E101,Alice,HR,Manager,70000,2018-02-10
+E102,Bob,IT,Developer,60000,2020-06-15
+E103,Charlie,IT,Developer,62000,2019-09-20
+E104,Daisy,Finance,Analyst,58000,2021-01-25
+E105,Eric,HR,Executive,45000,2022-03-05
